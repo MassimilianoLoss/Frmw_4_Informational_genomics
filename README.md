@@ -4,7 +4,7 @@
 
 ## HOW TO INSTALL: 
  
-  pip install infogenomics
+  pip install infogenomics <br />
   https://pypi.org/project/infogenomics/
   
 ### Advanced framework for informational genomics in python3
