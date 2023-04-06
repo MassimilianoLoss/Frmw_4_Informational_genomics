@@ -1,4 +1,5 @@
-
+# Advanced framework for informational genomics in python3
+# Just a module to mess with large strings :D
 
 
 def get_kmers(s, k):
