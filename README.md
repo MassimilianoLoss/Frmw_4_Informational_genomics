@@ -2,7 +2,7 @@
 
 # Just a module to mess with large strings :D
 
-## HOW TO INSTALL: 
+## INSTALL: 
  
   pip install infogenomics <br /> <br />
   https://pypi.org/project/infogenomics/
